@@ -1,11 +1,7 @@
 class AES {
     public static void main(String[] args) {
         
-        byte mult = (byte) 0x57; 
-        byte mcand = (byte) 0x83;
-        byte answer = multiplication(mult, mcand);
-        System.out.println(Integer.toHexString((byte) answer));
-        System.out.println(answer);
+        
     }
 
 
